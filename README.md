@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @igorbraga13
-- 👀 I’m interested in ...statistic
-- 🌱 I’m currently learning ...R
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 I'm a Data Scientist
+- 👀 I’m interested in Statistics/ML to solve real problems
+- 🌱 I’m currently learning about advanced topics in R
+- 💞️ I’m looking to collaborate on packages
+<!---
 - 📫 How to reach me ...
+--->
 
 <!---
 igorbraga13/igorbraga13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
