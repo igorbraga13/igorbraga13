@@ -33,7 +33,7 @@ I'm continually trying to expand my knowledges about:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
 
 <!---
-Linguagens e atividades
+Linguagens utilizadas e Atividades
 --->
 
 <div>
