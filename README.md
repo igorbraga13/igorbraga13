@@ -45,3 +45,8 @@ Linguagens e atividades
 Cobrinha
 --->
 ![Snake animation](https://github.com/igorbraga13/igorbraga13/blob/output/github-contribution-grid-snake.svg)
+
+<!---
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://github.com/coderjojo/creative-profile-readme
+--->
