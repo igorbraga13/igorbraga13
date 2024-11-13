@@ -11,10 +11,15 @@
 igorbraga13/igorbraga13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
+Contatos
+--->
 # Connect to me 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-          
+
+<!---
+Ferramentas
+--->
 # Tools and Technologies
 I'm continually trying to expand my knowledges about:
 
@@ -27,4 +32,17 @@ I'm continually trying to expand my knowledges about:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
 
-          
+<!---
+Linguagens e atividades
+--->
+
+<div>
+<a href="https://github.com/igorbraga13">
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbraga13&layout=compact&langs_count=7&theme=dracula"/> 
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=igorbraga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<!---
+Cobrinha
+--->
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
